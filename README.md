@@ -82,12 +82,6 @@ Full-stack learning management system exploring user authentication, role-based 
 ### 🌾 Weather-Based Crop Recommendation
 Machine learning project combining weather and soil parameters with ensemble algorithms to recommend suitable crops.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smoothy123&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoothy123&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Smoothy123-181717?style=for-the-badge&logo=github)](https://github.com/Smoothy123)
